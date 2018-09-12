@@ -13,13 +13,13 @@ extension UIColor {
         guard StringUtils.isEmpty(string: hex) == false else {
             return UIColor.black
         }
-        var cString:String = hex.trimmingCharacters(in: CharacterSet.whitespacesAndNewlines).uppercased()
+        let cString:String = hex.trimmingCharacters(in: CharacterSet.whitespacesAndNewlines).uppercased()
         
-        if (cString.hasPrefix("#")) {
-            cString = cString.substring(from: cString.index(cString.startIndex, offsetBy: 1))
-        }
+//        if (cString.hasPrefix("#")) {
+//            cString = cString.substring(from: cString.index(cString.startIndex, offsetBy: 1))
+//        }
         
-        if ((cString.characters.count) != 6) {
+        if ((cString.count) != 6) {
             return UIColor.gray
         }
         
