@@ -22,3 +22,6 @@ Each message is now 49 characters, each within the allowed limit.
 	+ If the total of substrings list is lower than 9 then we proceed to Step #4
 	+ If the total of substrings list is greater than 9, the we go back to step #2 and assume the maximum number is 99 and go on.
 - Step 4: Loop through the substrings list and replace x with the actual numbers
+
+# ScreenShots
+<img src="https://github.com/VuongTranCong/ZaloraAssignment/blob/master/Screenshots/Composer.png" width="400" height="400"> <img src="https://github.com/VuongTranCong/ZaloraAssignment/blob/master/Screenshots/Result.png" width="400" height="400">
