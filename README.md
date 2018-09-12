@@ -24,4 +24,4 @@ Each message is now 49 characters, each within the allowed limit.
 - Step 4: Loop through the substrings list and replace x with the actual numbers
 
 # ScreenShots
-<img src="https://github.com/VuongTranCong/ZaloraAssignment/blob/master/Screenshots/Composer.png" width="400" height="400"> <img src="https://github.com/VuongTranCong/ZaloraAssignment/blob/master/Screenshots/Result.png" width="400" height="400">
+<img src="https://github.com/VuongTranCong/ZaloraAssignment/blob/master/Screenshots/Composer.png" width="300" height="auto"> <img src="https://github.com/VuongTranCong/ZaloraAssignment/blob/master/Screenshots/Result.png" width="300" height="auto">
